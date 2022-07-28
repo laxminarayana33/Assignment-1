@@ -1,0 +1,57 @@
+.company_header{
+    background-image: url(../images/headerbg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* .company{
+    margin: 20px;
+} */
+
+.logo{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+.brand_name{
+    position: absolute;
+    padding-left: 12%;
+    top: 34px;
+    color: rgb(255, 191, 0);
+}
+.menu_head{
+    padding-left: 20px;
+    position: relative;
+}
+.menu_list{
+    list-style-type: none;
+    margin: 30px;
+}
+.menu_items{
+    display: inline-block;
+    padding: 15px;
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
+.food{
+    margin: 20px;
+}
+.food_Check{
+    text-align: left;
+    padding: 25px;
+}
+.text_filed{
+    width: 80%;
+    border-radius: 10px;
+    /* color: red; */
+    border: antiquewhite;
+
+}
+.foodcheck{
+    margin: 10px;
+}
+.button{
+    margin: 20px 0;
+    border-radius: 5px;
+}
